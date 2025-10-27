@@ -1,0 +1,18 @@
+cleaned_inventory_system.py:6:80: E501 line too long (91 > 79 characters)
+cleaned_inventory_system.py:12:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:13:80: E501 line too long (89 > 79 characters)
+cleaned_inventory_system.py:16:1: W293 blank line contains whitespace
+cleaned_inventory_system.py:20:1: W293 blank line contains whitespace
+cleaned_inventory_system.py:24:1: W293 blank line contains whitespace
+cleaned_inventory_system.py:30:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:35:1: W293 blank line contains whitespace
+cleaned_inventory_system.py:43:80: E501 line too long (85 > 79 characters)
+cleaned_inventory_system.py:52:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:56:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:75:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:89:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:95:1: W293 blank line contains whitespace
+cleaned_inventory_system.py:100:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:101:80: E501 line too long (80 > 79 characters)
+cleaned_inventory_system.py:108:1: E302 expected 2 blank lines, found 1
+cleaned_inventory_system.py:121:1: E305 expected 2 blank lines after class or function definition, found 1
