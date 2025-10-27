@@ -11,9 +11,9 @@
 | W0603 Using global statement |	cleaned_inventory_system.py:27 |	Using global makes state management harder and reduces testability. |	Medium |	Return loaded data from load_data and assign in caller, or encapsulate state in a class. |
 |	W0123 Use of eval |	cleaned_inventory_system.py:59 |	eval executes arbitrary code; security risk. |	High |	Remove eval or replace with safe alternative (avoid dynamic code). If parsing, use ast.literal_eval. |
 
-Fixes done:
-● Replace except: with specific exception types.
-● Use f-strings for cleaner logging/output.
-● Implement input validation for functions that take user input.
-● Properly configure logging in the main execution block.
-● Add module and function docstrings.
+Fixes done:<br>
+● Replace except: with specific exception types.<br>
+● Use f-strings for cleaner logging/output.<br>
+● Implement input validation for functions that take user input.<br>
+● Properly configure logging in the main execution block.<br>
+● Add module and function docstrings.<br>
